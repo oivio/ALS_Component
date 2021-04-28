@@ -1,7 +1,7 @@
 # ALS Component
 
 <div align="center">
-  <a href="https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE"><img src="https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg" alt="IMAGE ALT TEXT"></a>
+  <a href="https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE"><img src="https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/hqdefault.jpg" alt="IMAGE ALT TEXT"></a>
 </div>
 To make it more portable I did decide to work on component that hold all ALS settings with some addidional staff like weapon shotting.
 
