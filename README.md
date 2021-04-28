@@ -1,11 +1,13 @@
 # ALS Component
 
-<div align="center">
-  <a href="https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE"><img src="https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/hqdefault.jpg" alt="IMAGE ALT TEXT"></a>
-</div>
 To make it more portable I did decide to work on component that hold all ALS settings with some addidional staff like weapon shotting.
 
 Overall it is a community-based effort to fully and effectively replicate Advanced Locomotion System v4 which is permanently free on the Epic Marketplace. 
+
+Click On Image to see video on youtube: 
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=ioa-tmsRtF4"><img src="https://i.ytimg.com/vi/ioa-tmsRtF4/hqdefault.jpg"></a>
+</div>
 
 Discussion regarding the replication effort of ALS should take place on the official discord for Advanced Locomotion System here: https://discord.gg/wYYMHFu
 
