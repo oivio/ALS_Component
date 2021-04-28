@@ -1,9 +1,10 @@
 # ALS Component
 
-<p align="center">
-  [![IMAGE ALT TEXT](http://img.youtube.com/vi/ioa-tmsRtF4/0.jpg)](http://www.youtube.com/watch?v=ioa-tmsRtF4 "ALS v4 Component")
-</p>
-
+<iframe width="560" height="315"
+src="https://www.youtube.com/embed/MUQfKFzIOeU" 
+frameborder="0" 
+allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
+allowfullscreen></iframe>
 
 To make it more portable I did decide to work on component that hold all ALS settings with some addidional staff like weapon shotting.
 
