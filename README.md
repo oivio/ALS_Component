@@ -87,8 +87,8 @@ https://i.imgur.com/bpLUcT6.mp4
 <img src="https://user-images.githubusercontent.com/38628851/116420009-e138ce80-a83d-11eb-8d34-d07e17559420.gif">
 </p>
 
-- mantle system
+- mantle system - legs stretching
 - mannequin swap
 
 # Current Features Added:
-- Weapon Shot
+- Weapon System
