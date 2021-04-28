@@ -4,6 +4,8 @@ To make it more portable I did decide to work on component that hold all ALS set
 
 Overall it is a community-based effort to fully and effectively replicate Advanced Locomotion System v4 which is permanently free on the Epic Marketplace. 
 
+Youtube quick overview <a href="https://www.youtube.com/watch?v=ioa-tmsRtF4">link</a>
+
 Discussion regarding the replication effort of ALS should take place on the official discord for Advanced Locomotion System here: https://discord.gg/wYYMHFu
 
 <p align="center">
@@ -77,13 +79,16 @@ A description of what actually happens.
 +DefaultChannelResponses=(Channel=ECC_GameTraceChannel2,DefaultResponse=ECR_Block,bTraceType=True,bStaticObject=False,Name="Climbable")
 ```
 
-https://www.youtube.com/embed/B4M4VGT-HZQ
-
-
-
 # Known Issue:
+
+https://i.imgur.com/bpLUcT6.mp4
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/38628851/116420009-e138ce80-a83d-11eb-8d34-d07e17559420.gif">
+</p>
+
 - mantle system
 - mannequin swap
-- 
+
 # Current Features Added:
 - Weapon Shot
