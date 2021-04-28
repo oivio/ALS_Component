@@ -83,6 +83,7 @@ https://www.youtube.com/embed/B4M4VGT-HZQ
 
 # Known Issue:
 - mantle system
-
+- mannequin swap
+- 
 # Current Features Added:
 - Weapon Shot
