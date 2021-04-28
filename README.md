@@ -77,7 +77,8 @@ A description of what actually happens.
 +DefaultChannelResponses=(Channel=ECC_GameTraceChannel2,DefaultResponse=ECR_Block,bTraceType=True,bStaticObject=False,Name="Climbable")
 ```
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MtvGseVSAMA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+https://www.youtube.com/watch?v=MtvGseVSAMA
+
 
 
 # Known Issue:
