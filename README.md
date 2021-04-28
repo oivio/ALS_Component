@@ -84,9 +84,11 @@ A description of what actually happens.
 
 # Known Issue:
 
-![image](https://i.imgur.com/bpLUcT6.mp4)
+https://i.imgur.com/bpLUcT6.mp4
 
-https://i.imgur.com/bpLUcT6.mp4![bug_Trim](https://user-images.githubusercontent.com/38628851/116420009-e138ce80-a83d-11eb-8d34-d07e17559420.gif)
+<p align="center">
+<img src="https://user-images.githubusercontent.com/38628851/116420009-e138ce80-a83d-11eb-8d34-d07e17559420.gif">
+</p>
 
 - mantle system
 - mannequin swap
