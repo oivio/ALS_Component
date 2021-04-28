@@ -76,14 +76,17 @@ A description of what actually happens.
 +Profiles=(Name="ALS_Character",CollisionEnabled=QueryAndPhysics,bCanModify=True,ObjectTypeName="Pawn",CustomResponses=((Channel="Visibility",Response=ECR_Ignore),(Channel="Camera",Response=ECR_Ignore),(Channel="Climbable",Response=ECR_Ignore)),HelpMessage="Custom collision settings for the capsule in the ALS_BaseCharacter.")
 +DefaultChannelResponses=(Channel=ECC_GameTraceChannel2,DefaultResponse=ECR_Block,bTraceType=True,bStaticObject=False,Name="Climbable")
 ```
+Setup Video: https://www.youtube.com/watch?v=ioa-tmsRtF4
 
-https://www.youtube.com/embed/B4M4VGT-HZQ
-
-
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/baFrz8I" data-context="false" ><a href="//imgur.com/a/baFrz8I"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 # Known Issue:
+
+![image](https://i.imgur.com/bpLUcT6.mp4)
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/baFrz8I" data-context="false" ><a href="//imgur.com/a/baFrz8I"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+
 - mantle system
 - mannequin swap
-- 
+
 # Current Features Added:
 - Weapon Shot
