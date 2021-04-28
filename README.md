@@ -1,5 +1,10 @@
 # ALS Component
 
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=ioa-tmsRtF4"><img src="https://i.ytimg.com/vi/ioa-tmsRtF4/hqdefault.jpg"></a>
+</p>
+
+
 To make it more portable I did decide to work on component that hold all ALS settings with some addidional staff like weapon shotting.
 
 Overall it is a community-based effort to fully and effectively replicate Advanced Locomotion System v4 which is permanently free on the Epic Marketplace. 
@@ -76,14 +81,12 @@ A description of what actually happens.
 +Profiles=(Name="ALS_Character",CollisionEnabled=QueryAndPhysics,bCanModify=True,ObjectTypeName="Pawn",CustomResponses=((Channel="Visibility",Response=ECR_Ignore),(Channel="Camera",Response=ECR_Ignore),(Channel="Climbable",Response=ECR_Ignore)),HelpMessage="Custom collision settings for the capsule in the ALS_BaseCharacter.")
 +DefaultChannelResponses=(Channel=ECC_GameTraceChannel2,DefaultResponse=ECR_Block,bTraceType=True,bStaticObject=False,Name="Climbable")
 ```
-Setup Video: https://www.youtube.com/watch?v=ioa-tmsRtF4
-
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/baFrz8I" data-context="false" ><a href="//imgur.com/a/baFrz8I"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 # Known Issue:
 
 ![image](https://i.imgur.com/bpLUcT6.mp4)
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/baFrz8I" data-context="false" ><a href="//imgur.com/a/baFrz8I"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+
+https://i.imgur.com/bpLUcT6.mp4![bug_Trim](https://user-images.githubusercontent.com/38628851/116420009-e138ce80-a83d-11eb-8d34-d07e17559420.gif)
 
 - mantle system
 - mannequin swap
