@@ -1,8 +1,7 @@
 # ALS Component
 
 <p align="center">
-  <a href="https://www.youtube.com/watch?v=ioa-tmsRtF4"><img src="https://i.ytimg.com/vi/ioa-tmsRtF4/hqdefault.jpg"></a>
-  [![video](http://img.youtube.com/vi/ioa-tmsRtF4/0.jpg)](http://www.youtube.com/watch?v=ioa-tmsRtF4 "[ UE4 ] ALS v4 Component")
+  [![IMAGE ALT TEXT](http://img.youtube.com/vi/ioa-tmsRtF4/0.jpg)](http://www.youtube.com/watch?v=ioa-tmsRtF4 "ALS v4 Component")
 </p>
 
 
