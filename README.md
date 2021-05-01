@@ -1,6 +1,6 @@
 # ALS Component
 
-To make it more portable I did decide to work on component that hold all ALS settings with some addidional staff like weapon shotting.
+To make it more portable, easier to add ALSv4 to the existing project without any hassle I did decide to work on components that hold all ALS settings with some additional staff like a weapon system.
 
 Overall it is a community-based effort to fully and effectively replicate Advanced Locomotion System v4 which is permanently free on the Epic Marketplace. 
 
@@ -87,8 +87,8 @@ https://i.imgur.com/bpLUcT6.mp4
 <img src="https://user-images.githubusercontent.com/38628851/116420009-e138ce80-a83d-11eb-8d34-d07e17559420.gif">
 </p>
 
-- mantle system
+- mantle system - legs stretching
 - mannequin swap
 
 # Current Features Added:
-- Weapon Shot
+- Weapon System
