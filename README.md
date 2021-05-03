@@ -93,4 +93,4 @@ https://i.imgur.com/bpLUcT6.mp4
 # Current Features Added:
 - Weapon System
 - Footstep System
-- Impact System (credits for VFX and SFX to <a href="https://www.unrealengine.com/marketplace/en-US/product/ballistics-fx">Ballistics FX</a>)
+- Impact System SFX/VFX temporary removed
