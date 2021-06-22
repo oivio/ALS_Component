@@ -80,9 +80,10 @@ A description of what actually happens.
 # Known Issue:
 
 # Current Features Added:
-- Melee Combat
-- Weapon System
+- ADS
+- Simple Weapon System
 - Hit Reaction
 - Interaction with CCDIK
 - Footstep System
-- Impact System SFX/VFX temporary removed
+- Advanced Camera Manager
+- Melee Combat WiP
