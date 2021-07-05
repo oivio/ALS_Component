@@ -60,6 +60,7 @@ A description of what actually happens.
 +ActionMappings=(ActionName="OpenOverlayMenu",bShift=False,bCtrl=False,bAlt=False,bCmd=False,Key=Gamepad_LeftShoulder)
 +ActionMappings=(ActionName="AttackAction",bShift=False,bCtrl=False,bAlt=False,bCmd=False,Key=LeftMouseButton)
 +ActionMappings=(ActionName="InteractAction",bShift=False,bCtrl=False,bAlt=False,bCmd=False,Key=E)
++ActionMappings=(ActionName="TargetLockAction",bShift=False,bCtrl=False,bAlt=False,bCmd=False,Key=MiddleMouseButton)
 +AxisMappings=(AxisName="MoveForward/Backwards",Scale=1.000000,Key=W)
 +AxisMappings=(AxisName="MoveRight/Left",Scale=1.000000,Key=D)
 +AxisMappings=(AxisName="LookUp/Down",Scale=-1.000000,Key=MouseY)
@@ -81,9 +82,11 @@ A description of what actually happens.
 
 # Current Features Added:
 - ADS
+- Target Lock
 - Simple Weapon System
 - Hit Reaction
 - Interaction with CCDIK
 - Footstep System
+- Impact VFX System
 - Advanced Camera Manager
-- Melee Combat WiP
+- Melee Combat
