@@ -46,7 +46,7 @@ A description of what actually happens.
 +ActionMappings=(ActionName="WalkAction",bShift=False,bCtrl=False,bAlt=False,bCmd=False,Key=Gamepad_RightShoulder)
 +ActionMappings=(ActionName="AimAction",bShift=False,bCtrl=False,bAlt=False,bCmd=False,Key=RightMouseButton)
 +ActionMappings=(ActionName="AimAction",bShift=False,bCtrl=False,bAlt=False,bCmd=False,Key=Gamepad_LeftTrigger)
-+ActionMappings=(ActionName="SelectRotationMode",bShift=False,bCtrl=False,bAlt=False,bCmd=False,Key=One)
++ActionMappings=(ActionName="SelectRotationMode",bShift=False,bCtrl=False,bAlt=False,bCmd=False,Key=Four)
 +ActionMappings=(ActionName="SelectRotationMode",bShift=False,bCtrl=False,bAlt=False,bCmd=False,Key=Gamepad_DPad_Left)
 +ActionMappings=(ActionName="CameraAction",bShift=False,bCtrl=False,bAlt=False,bCmd=False,Key=C)
 +ActionMappings=(ActionName="CameraAction",bShift=False,bCtrl=False,bAlt=False,bCmd=False,Key=Gamepad_RightThumbstick)
@@ -87,6 +87,7 @@ A description of what actually happens.
 - Hit Reaction
 - Interaction with CCDIK
 - Footstep System
-- Impact VFX System
+- Impact VFX 
+- Melee CombatSystem
 - Advanced Camera Manager
-- Melee Combat
+- added optional Top Down Camera
