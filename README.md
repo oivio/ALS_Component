@@ -2,7 +2,7 @@
 
 To make it more portable, easier to add ALSv4 to the existing project without any hassle I did decide to work on components that hold all ALS settings with some additional staff like a weapon system.
 
-Overall it is a community-based effort to fully and effectively replicate Advanced Locomotion System v4 which is permanently free on the Epic Marketplace. 
+Overall it is only partly replicate Advanced Locomotion System v4. 
 
 Youtube quick overview <a href="https://www.youtube.com/watch?v=ioa-tmsRtF4">link</a>
 
