@@ -92,3 +92,4 @@ A description of what actually happens.
 - Melee CombatSystem
 - Advanced Camera Manager
 - added optional Top Down Camera
+- Player Stats WiP (Shield/Health/Stamania)
