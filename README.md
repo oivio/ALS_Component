@@ -4,7 +4,7 @@ To make it more portable, easier to add ALSv4 to the existing project without an
 
 Overall it is only partly replicate Advanced Locomotion System v4. 
 
-Youtube quick overview <a href="https://www.youtube.com/watch?v=ioa-tmsRtF4">link</a>
+Youtube quick overview <a href="https://www.youtube.com/watch?v=s07VBy2uXqc">link</a>
 
 Discussion regarding the replication effort of ALS should take place on the official discord for Advanced Locomotion System here: https://discord.gg/wYYMHFu
 
